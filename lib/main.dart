@@ -12,6 +12,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Rolling Dice',
       home: HomeScreen(),
+      
     );
   }
 }
